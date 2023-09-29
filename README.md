@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" width="500" height="480" align="right">
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" width="500" height="450" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsakash199&label=Profile%20views&color=0e75b6&style=flat" alt="vatsakash199" /> </p>
 
 - 🌱 I’m currently learning :- *Javascript, React*
