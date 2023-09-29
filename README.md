@@ -46,12 +46,13 @@
 
 <br />
 
-
+<hr>
 <br>
+<h3 align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AKashVaTs199" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="AKashVaTs199" /></p>
-
+</h3>
 
 <hr>
 <h3 align="center">
